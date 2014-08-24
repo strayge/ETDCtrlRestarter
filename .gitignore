@@ -130,6 +130,9 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+Binary
+*.exe
+
 
 #############
 ## Python
